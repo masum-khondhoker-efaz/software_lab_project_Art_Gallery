@@ -1,2 +1,2 @@
-# software_lab_project_3D_Art_Gallery
+# software_lab_project_Art_Gallery
 
